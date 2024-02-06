@@ -1,4 +1,4 @@
-Upper right side of the screen has a green Code<> button, click that, and copy the HTTPS url.
+Upper right side of the screen has a green <>Code button, click that, and copy the HTTPS url.
 
 In Replit, open the shell terminal on the right side of the screen.
 
